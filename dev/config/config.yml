@@ -1,0 +1,53 @@
+#Ce fichier contiens la config de base du serveur---
+Pied:
+    facebook: https://facebook.com/ma.page
+    twitter: https://twitter.com/craftmywebsite
+    youtube: https://www.youtube.com/channel/UCzkhnB95d0SCLU2zrTWEBOQ
+    discord: https://discord.gg/cVw9UkU
+All:
+    Seo:
+        color: 26A69A
+        name: 'Nom du serveur - Serveur Minecraft'
+        description: "Rejoignez nom de votre serveur à l'adresse play.votreserveur.fr"
+        image: https://via.placeholder.com/64
+        google: ""
+        bing: ""
+    couleur: green
+    Ads:
+        etat: 'false'
+        slot: 8XXXXX1
+        client: ca-pub-XXXXXXX11XXX9
+    Analytics:
+        etat: 'false'
+        id: UA-000000-2
+Acceuil:
+    parallax:
+        1: theme/MaterialCraft/images/parallax/bg1.jpg
+        2: theme/MaterialCraft/images/parallax/bg2.jpg
+        3: theme/MaterialCraft/images/parallax/bg3.jpg
+    navslide:
+        1:
+            image: theme/MaterialCraft/images/icons/1.png
+            description: >
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt.
+        2:
+            image: theme/MaterialCraft/images/icons/2.png
+            description: >
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt.
+        3:
+            image: theme/MaterialCraft/images/icons/3.png
+            description: >
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt.
+    textdefilant:
+        1: Anti PayToWin.
+        2: avec une communauté accueillante.
+        3: survie en 1.15.2
+        4: sans lag.
+cookies:
+    bg: FFFFFF
+    message: >
+        Ce site utilise des cookies pour vous garantir la meilleure
+        expérience sur notre site.
